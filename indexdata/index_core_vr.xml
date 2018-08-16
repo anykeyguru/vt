@@ -814,7 +814,7 @@ stopautorotation();
 
 		<layer name="webvr_button_text" 
 			url="%FIRSTXML%/graphics/textfield.swf"
-			html="New Project"
+			html="ORTASH"
 			background="false"
 			align="center"
 			edge="bottom"
